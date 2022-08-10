@@ -1,6 +1,6 @@
 ## Hi I'm Hodo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a full stack developer based in Hargeisa, Somaliland. I Spend most of time learning languages and coding.
+I'm a junior software developer based in Hargeisa, Somaliland.
 
 :mailbox: Reach me out!
 
@@ -11,7 +11,6 @@ I'm a full stack developer based in Hargeisa, Somaliland. I Spend most of time l
 
 - 🔭 I’m currently learning Nodejs and react
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with backend sides.
 - 📫 How to reach me: hodoibrahim17@gmail.com.
 
 #### Top Technologies
